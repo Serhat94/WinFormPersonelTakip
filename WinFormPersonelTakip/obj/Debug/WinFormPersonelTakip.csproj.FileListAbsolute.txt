@@ -1,0 +1,10 @@
+C:\Users\karde\Desktop\WinFormPersonelTakip\WinFormPersonelTakip\bin\Debug\WinFormPersonelTakip.exe.config
+C:\Users\karde\Desktop\WinFormPersonelTakip\WinFormPersonelTakip\bin\Debug\WinFormPersonelTakip.exe
+C:\Users\karde\Desktop\WinFormPersonelTakip\WinFormPersonelTakip\bin\Debug\WinFormPersonelTakip.pdb
+C:\Users\karde\Desktop\WinFormPersonelTakip\WinFormPersonelTakip\obj\Debug\WinFormPersonelTakip.csprojAssemblyReference.cache
+C:\Users\karde\Desktop\WinFormPersonelTakip\WinFormPersonelTakip\obj\Debug\WinFormPersonelTakip.Form1.resources
+C:\Users\karde\Desktop\WinFormPersonelTakip\WinFormPersonelTakip\obj\Debug\WinFormPersonelTakip.Properties.Resources.resources
+C:\Users\karde\Desktop\WinFormPersonelTakip\WinFormPersonelTakip\obj\Debug\WinFormPersonelTakip.csproj.GenerateResource.cache
+C:\Users\karde\Desktop\WinFormPersonelTakip\WinFormPersonelTakip\obj\Debug\WinFormPersonelTakip.csproj.CoreCompileInputs.cache
+C:\Users\karde\Desktop\WinFormPersonelTakip\WinFormPersonelTakip\obj\Debug\WinFormPersonelTakip.exe
+C:\Users\karde\Desktop\WinFormPersonelTakip\WinFormPersonelTakip\obj\Debug\WinFormPersonelTakip.pdb
